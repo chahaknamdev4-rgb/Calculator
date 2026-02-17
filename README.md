@@ -22,6 +22,3 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 1. Download or clone this repository.
 2. Open the project folder.
 3. Open index.html in your browser.
-
- 📸 Screenshot
-![Calculator Screenshot](pictures/screenshot.png)
