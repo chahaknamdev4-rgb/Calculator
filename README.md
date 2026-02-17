@@ -24,4 +24,4 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 3. Open index.html in your browser.
 
  📸 Screenshot
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](pictures/screenshot.png)
